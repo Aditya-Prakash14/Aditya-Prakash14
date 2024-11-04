@@ -27,6 +27,9 @@
 
 **Fun Fact:**
 - ⚡ I can solve a Rubik's Cube in under a minute!
+# My Holopin Badges
+
+[![Holopin Badge](https://holopin.io/api/user/board?user=adityaprakash14)](https://holopin.io/@adityaprakash14)
 
 
 
